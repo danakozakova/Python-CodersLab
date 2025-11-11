@@ -1,1 +1,1 @@
-# [Wiki] (https://github.com/danakozakova/Python-CodersLab/wiki)
+# Wiki -https://github.com/danakozakova/Python-CodersLab/wiki

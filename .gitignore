@@ -1,2 +1,5 @@
 *.pdf
 *.html
+.ipynb_checkpoints/
+LMS_notebooky/
+LMS_notebooky/*

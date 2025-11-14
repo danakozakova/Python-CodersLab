@@ -2,4 +2,6 @@
 *.html
 CodersLab/
 .ipynb_checkpoints/
+LMS_notebooky/
+LMS_notebooky/*
 *_solved.ipynb

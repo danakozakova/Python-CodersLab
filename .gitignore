@@ -1,5 +1,5 @@
 *.pdf
 *.html
-CodersLab\
-.ipynb_checkpoints\
+CodersLab/
+.ipynb_checkpoints/
 *_solved.ipynb

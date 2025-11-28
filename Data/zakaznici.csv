@@ -1,0 +1,13 @@
+id;jmeno;prijmeni;email;mesto;vek;nakupy_celkem
+1;Jana;Novákova;jana.novakova@email.cz;Praha;34;12500,50
+2;Petr;Svoboda;petr.svoboda@seznam.cz;Brno;45;8900,00
+3;Marie;Dvořáková;m.dvorakova@gmail.com;Ostrava;28;3200,75
+4;Tomáš;Černý;tomas.cerny@email.cz;Plzeň;52;15600,25
+5;Eva;Procházková;eva.p@centrum.cz;Liberec;31;4500,00
+6;Martin;Kučera;martin.kucera@email.cz;Olomouc;39;9800,50
+7;Lucie;Veselá;lucie.vesela@seznam.cz;České Budějovice;26;2100,00
+8;Jakub;Horák;j.horak@gmail.com;Hradec Králové;41;11200,75
+9;Tereza;Marková;tereza.m@email.cz;Pardubice;33;6700,25
+10;David;Pokorný;david.pokorny@centrum.cz;Zlín;29;3900,50
+11;Karolína;Němcová;k.nemcova@email.cz;Jihlava;37;8100,00
+12;Ondřej;Marek;ondrej.marek@seznam.cz;Ústí nad Labem;44;14300,75

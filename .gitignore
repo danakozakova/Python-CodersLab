@@ -4,5 +4,8 @@ CodersLab/
 .ipynb_checkpoints/
 LMS_notebooky/
 LMS_notebooky/*
+Day_10_Workshop/data/
+Day_10_Workshop/data/*
+requirements.txt
 Session_1_Summary/archive/*
 *_solved.ipynb

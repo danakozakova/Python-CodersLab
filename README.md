@@ -43,7 +43,7 @@ jupyter lab
 Notebooky sú písané pre Python 3.10+.
 
 _Poznámka:_
-Súbory $_renamed$ a $_cleaned$ v $Data/$ sú zámerne súčasťou repa – slúžia ako vstupné body pre Deň 5 a 6, aby lekcie boli samostatne spustiteľné.
+Súbory *_renamed* a *_cleaned* v *Data/* sú zámerne súčasťou repa – slúžia ako vstupné body pre Deň 5 a 6, aby lekcie boli samostatne spustiteľné.
 
 ## O mne
 

@@ -1,1 +1,2 @@
-Text na 1. radkutext na 2. radku
+Text na 1. radku
+text na 2. radku

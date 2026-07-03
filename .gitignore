@@ -9,3 +9,5 @@ Day_10_Workshop/data/*
 requirements.txt
 Session_1_Summary/archive/*
 *_solved.ipynb
+Data/product_prices_cleaned.xlsx
+Data/product_prices_cleaned_groupped.xlsx
